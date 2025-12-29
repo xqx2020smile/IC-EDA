@@ -1,0 +1,5 @@
+[2025-12-25T14:27:13.430Z] [ERROR] Error in verible_project: Verible is not installed or not found in PATH
+Error: Verible is not installed or not found in PATH
+    at ProjectTool.execute (file:///F:/EDA/verible/mcp4eda/verible-mcp/dist/tools/base.js:30:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///F:/code/mercode/02_Codes/MFCC_none_Interface/01_Design/[eval1]:12:16
